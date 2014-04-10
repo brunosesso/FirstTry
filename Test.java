@@ -1,3 +1,5 @@
+/* HAHAHA */
+
 public class Test {
 
     public static void showUsage() {
