@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 meu nome
+=======
+é Bruno Sesso
+>>>>>>> 2a97b4c2397a063cba3337be5fc63678627963ae
